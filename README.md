@@ -1,7 +1,7 @@
 ### Hi there, I'm Arjun Jayesh 👋
 
 - 2022 Goals: Level up in software development skills
-- 🔭 I’m currently working on an e-mail automation script using G-Mail API
+- 🔭 I’m currently working on learning Python and it's associated frameworks. 
 - 🌱 I’m currently learning to live life with no regrets. 
 - 💬 Ask me about Technology, Cars, and Kochi.
 
