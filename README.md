@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an e-mail automation script using G-Mail API
+- 🌱 I’m currently learning Python and its associated frameworks - Django and Flask
+- 💬 Ask me about Technology, Cars, food and Kochi.
+
 <!--
 **arjunjayesh/arjunjayesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
