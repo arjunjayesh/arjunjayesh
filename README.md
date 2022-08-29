@@ -8,8 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="arjunjayesh | LinkedIn" width="22px" src="https://img.icons8.com/color/2x/linkedin.png" />][linkedin]
-[<img align="left" alt="arjunjayesh | WhatsApp" width="22px" src="https://img.icons8.com/color/344/whatsapp--v1.png" />][WhatsApp]
+[<img align="left" alt="arjunjayesh | LinkedIn" width="22px" src="https://img.icons8.com/color/2x/linkedin.png" />][LinkedIn]
+[<img align="left" alt="arjunjayesh | Instagram" width="22px" src="https://img.icons8.com/color/2x/instagram.png" />][Instagram]
+[<img align="left" alt="arjunjayesh | WhatsApp" width="22px" src="https://img.icons8.com/color/2x/whatsapp--v1.png" />][WhatsApp]
 
-[linkedin]: https://linkedin.com/in/arjunjayesh
+[LinkedIn]: https://linkedin.com/in/arjunjayesh
+[Instagram]: https://www.instagram.com/arjunjayesh97/
 [WhatsApp]: https://wa.me/+917012936126
