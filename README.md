@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Arjun Jayesh 👋
 
+- 2022 Goals: Level up in software development skills
 - 🔭 I’m currently working on an e-mail automation script using G-Mail API
-- 🌱 I’m currently learning Python and its associated frameworks - Django and Flask
-- 💬 Ask me about Technology, Cars, food and Kochi.
+- 🌱 I’m currently learning to live life with no regrets. 
+- 💬 Ask me about Technology, Cars, and Kochi.
 
 <!--
 **arjunjayesh/arjunjayesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
