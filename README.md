@@ -9,5 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="arjunjayesh | LinkedIn" width="22px" src="https://img.icons8.com/color/2x/linkedin.png" />][linkedin]
+[<img align="left" alt="arjunjayesh | WhatsApp" width="22px" src="https://img.icons8.com/color/344/whatsapp--v1.png" />][WhatsApp]
 
 [linkedin]: https://linkedin.com/in/arjunjayesh
+[WhatsApp]: https://wa.me/+917012936126
