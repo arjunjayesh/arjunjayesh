@@ -1,6 +1,6 @@
 ### Hi there, I'm Arjun Jayesh 👋
 
-- 🥅 2022 Goals: Level up in software development skills
+- 🥅 2022 Goals: Level up in development skills
 - 🔭 I’m currently working on Python and it's associated frameworks. 
 - 🌱 I’m currently learning to live life with no regrets. 
 - 💬 Ask me about Technology, Cars, and Kochi.
