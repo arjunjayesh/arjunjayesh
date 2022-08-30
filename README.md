@@ -1,6 +1,6 @@
 ### Hi there, I'm Arjun Jayesh 👋
 
-## Human Being - Tech Enthusiast, Photographer and also a Software Developer!!
+## Human Being, also a Software Developer!!
 
 - 🥅 2022 Goals: Level up in development skills
 - 🔭 I’m currently working on Python and it's associated frameworks. 
